@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "SynchronizationTool", ".", "{01C9AF26-FE16-4F6D-9906-F8E620208B8C}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/SynchronizationTool"
+		Debug.AspNetCompiler.PhysicalPath = "..\SynchronizationTool\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\SynchronizationTool\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/SynchronizationTool"
+		Release.AspNetCompiler.PhysicalPath = "..\SynchronizationTool\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\SynchronizationTool\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "29403"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01C9AF26-FE16-4F6D-9906-F8E620208B8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01C9AF26-FE16-4F6D-9906-F8E620208B8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
